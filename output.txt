@@ -1,0 +1,92 @@
+
+Physician Id's
+
+2784688
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+170513412
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+1909706
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+123625423
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+121054188
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+163610534
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+252756932
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+204945931
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+187363932
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+107834188
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+103804688
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+49173169
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+98772517
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+268565132
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+82583031
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+47019804
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+515052
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+475497
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+44692703
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+44259972
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+66993957
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+140950205
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+39535665
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+38966698
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+137085467
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+22965846
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+13605523
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+130098433
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+10910903
+DoctorName	DoctorAddress	DoctorContactNo.	
+
+
+Number of physician treating rare disease:	29
