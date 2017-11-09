@@ -1,7 +1,7 @@
 It helps the rare disease patients to find their physicians.
-We use a machine learning algorithm to find the best rare disease physician from the given dataset
+We developed a machine learning algorithm to find the best rare disease physician from the given dataset.
 
-Step:-
+Information regarding files:-
 1. patientjourneyfinder.csv contains the diagnosis data of patients. 
 2. symptoms.csv contains the symptoms of a rare disease.
 3. doctorlist.csv contains the details of the physicians.
